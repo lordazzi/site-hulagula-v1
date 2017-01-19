@@ -1,0 +1,1 @@
+<? header("location: site/content"); ?>
